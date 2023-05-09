@@ -1,3 +1,4 @@
 #  Class List 
-Amalia Valverde
-Shifa Kasiri
+- David Plata
+- Amalia Valverde
+- Shifa Kasiri
