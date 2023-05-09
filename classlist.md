@@ -1,3 +1,3 @@
 # Class List
 
-Hello ~ This is Benjamin Wen ^^
+Hello ~ This is Benjamin ^^
